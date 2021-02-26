@@ -8,6 +8,6 @@ int main() {
     printf("demo ligne\n");
     printf("youpi\n");
 
-    printf("Oulà");
+    printf("Oups");
     return 0;
 }
